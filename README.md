@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jaanonim&theme=dark&row=2&column=3)
+![trophy](https://github-profile-trophy.vercel.app/?username=jaanonim&theme=onedark&row=2&column=3)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaanonim&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaanonim&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaanonim&layout=compact&theme=onedark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaanonim&theme=onedark)
 
 <!--
 **jaanonim/jaanonim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
