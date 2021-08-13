@@ -10,7 +10,7 @@
 </p>
 
 <p aling="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaanonim&theme=onedark" alt="jaanonim">
+<img aling="center" src="https://github-readme-stats.vercel.app/api?username=jaanonim&theme=onedark" alt="jaanonim">
 </p>
 
 <!--
