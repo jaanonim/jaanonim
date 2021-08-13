@@ -1,17 +1,10 @@
 <h1 align="center" > Hi there 👋 </h1>
 <h3 align="center" > I'm Mateusz </h3>
 
-<p aling="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jaanonim&theme=onedark&row=2&column=3" alt="jaanonim">
-</p>
-
-<p aling="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanonim&layout=compact&theme=onedark" alt="jaanonim">
-</p>
-
-<p aling="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jaanonim&theme=onedark&row=2&column=3" alt="jaanonim"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaanonim&layout=compact&theme=onedark" alt="jaanonim"><br>
 <img aling="center" src="https://github-readme-stats.vercel.app/api?username=jaanonim&theme=onedark" alt="jaanonim">
-</p>
+
 
 <!--
 **jaanonim/jaanonim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
