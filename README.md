@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jaanonim</h1>
+<h1 align="center">Hi 👋, I'm Jaanonim</h1>
 <h3 align="center">I'm stundent from Kraków (Poland).
 
 <a href="https://jaanonim.github.io/">jaanonim.github.io</a></h3>
