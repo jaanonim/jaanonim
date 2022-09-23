@@ -3,7 +3,7 @@
 
 <a href="https://jaanonim.github.io/">jaanonim.github.io</a></h3>
 
-- 🌱 I’m currently learning **elixir and how to write kernel from scrach.**
+- 🌱 I’m currently learning **typescript and how to render 3D grafics.**
 
 - ⚡ Fun fact **I like walking on mountains 🏔.**
 
