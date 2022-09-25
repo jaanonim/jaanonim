@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **typescript and how to render 3D grafics.**
 
-- ⚡ Fun fact **I like walking on mountains 🏔.**
+- ⚡ Fun fact **I like walking in mountains 🏔.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
