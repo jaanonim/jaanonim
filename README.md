@@ -3,7 +3,7 @@
 
 <a href="https://jaanonim.github.io/">jaanonim.github.io</a></h3>
 
-- 🌱 I’m currently learning **typescript and how to render 3D grafics.**
+- 🌱 I’m currently learning **typescript and how to render 3D graphics.**
 
 - ⚡ Fun fact **I like walking in mountains 🏔.**
 
