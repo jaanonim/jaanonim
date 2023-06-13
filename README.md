@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I like walking in mountains 🏔.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,4 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaanonim&theme=dark" alt="jaanonim" /></p>
 
+[![wakatime](https://wakatime.com/badge/user/9fe7f760-f7ae-4acf-9bf7-44634e56b55a.svg)](https://wakatime.com/@9fe7f760-f7ae-4acf-9bf7-44634e56b55a)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaanonim&label=Profile%20views&color=0e75b6&style=flat" alt="jaanonim" /> </p>
