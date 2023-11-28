@@ -1,3 +1,11 @@
+
+## Narzedzia informatyczne
+
+Link do forka: https://github.com/jaanonim/Barbershop <br/>
+Link do strony artykułu: https://zpdesu.github.io/Barbershop
+
+---
+
 <h1 align="center">Hi 👋, I'm Jaanonim</h1>
 <h3 align="center">I'm studying computer science at AGH in Kraków (Poland).</h3>
 
