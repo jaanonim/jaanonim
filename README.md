@@ -2,7 +2,7 @@
 ## Narzedzia informatyczne
 
 Link do forka: https://github.com/jaanonim/Barbershop <br/>
-Link do strony artykułu: https://zpdesu.github.io/Barbershop
+Link do strony artykułu: https://paperswithcode.com/paper/barbershop-gan-based-image-compositing-using
 
 ---
 
